@@ -1,0 +1,11 @@
+{
+  "links": {
+    "shopCenter":"https://tk.dafgsdgsdqqwqdg12.cc/pages/home/home?route=shopCenter&",
+    "goodsList":"https://tk.dafgsdgsdqqwqdg12.cc/pages/management/management?route=goodsList&",
+    "orderList":"https://tk.dafgsdgsdqqwqdg12.cc/pages/order/order?route=orderList&",
+    "tkchat_history":"https://tk.dafgsdgsdqqwqdg12.cc/open_api/tkchat_history",
+    "tkchat_state":"https://tk.dafgsdgsdqqwqdg12.cc/open_api/tkchat_state",
+    "tktab_text":"https://check.intyu.net/tab_text.aspx",
+    "tk_crash_url":"https://tk.dafgsdgsdqqwqdg12.cc/open_api/crash_log"
+  }
+}
